@@ -60,7 +60,7 @@ print(f'R-squared: {r2:.2f}')
 Explore more advanced regression techniques, such as polynomial regression or regularized models, to potentially improve the model's performance.
 Conduct feature selection to identify the most important predictors of house prices.
 Gather additional data sources to enrich the feature set and capture more aspects that influence house prices.
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+
 
