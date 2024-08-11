@@ -61,6 +61,6 @@ Explore more advanced regression techniques, such as polynomial regression or re
 Conduct feature selection to identify the most important predictors of house prices.
 Gather additional data sources to enrich the feature set and capture more aspects that influence house prices.
 
-
+https://github.com/praveen-334/house-price-prediction-using-linear-regression/pull/1#issue-2430583429
 
 
